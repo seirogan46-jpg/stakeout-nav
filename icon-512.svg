@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="38" fill="#0a0f1e"/>
+  <circle cx="96" cy="96" r="68" fill="none" stroke="#2a3550" stroke-width="8"/>
+  <circle cx="96" cy="96" r="54" fill="none" stroke="#1c2537" stroke-width="2"/>
+  <!-- N arrow (blue) -->
+  <polygon points="96,38 275,30 96,195 237,30" fill="#3b82f6"/>
+  <!-- S arrow (gray) -->
+  <polygon points="96,152 275,15 96,317 237,15" fill="#2a3550"/>
+  <!-- Center -->
+  <circle cx="96" cy="96" r="5" fill="#f1f5f9"/>
+  <!-- N label -->
+  <text x="96" y="30" text-anchor="middle" fill="#ef4444" font-size="15" font-weight="700" font-family="Arial">N</text>
+</svg>
